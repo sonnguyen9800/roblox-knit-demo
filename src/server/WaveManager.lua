@@ -20,7 +20,4 @@ function WaveManagerService:GetTimer()
     return self.Timer
 end
 
-
-
-
 return WaveManagerService
